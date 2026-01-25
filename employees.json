@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "张三",
+      "jobTitle": "前端开发",
+      "department": "技术部",
+      "avatar": "https://i.pravatar.cc/40?img=1"
+    },
+    {
+      "id": 2,
+      "name": "李四",
+      "jobTitle": "后端开发",
+      "department": "研发部",
+      "avatar": "https://i.pravatar.cc/40?img=2"
+    },
+    {
+      "id": 3,
+      "name": "王五",
+      "jobTitle": "测试工程师",
+      "department": "质量部",
+      "avatar": "https://i.pravatar.cc/40?img=3"
+    },
+    {
+      "id": 4,
+      "name": "赵六",
+      "jobTitle": "产品助理",
+      "department": "产品部",
+      "avatar": "https://i.pravatar.cc/40?img=4"
+    },
+    {
+      "id": 5,
+      "name": "钱七",
+      "jobTitle": "运维工程师",
+      "department": "运维部",
+      "avatar": "https://i.pravatar.cc/40?img=5"
+    }
+  ]
+}
